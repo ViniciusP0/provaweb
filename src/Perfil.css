@@ -1,0 +1,23 @@
+
+.cardmain{
+    margin-left: 30px;
+}
+.principal{
+    margin-left: 10px;
+    background-color: rgb(61, 123, 170);
+    width:400px ;
+    padding-bottom: 5px;
+}
+.card{
+    background-color: #cbffe7;
+    margin: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    margin: 10px;
+}
